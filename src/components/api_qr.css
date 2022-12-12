@@ -1,0 +1,95 @@
+
+#h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 410pt;
+    font-size: 1.5cm;
+}
+
+#frame{
+    width: 500px;
+    height: 500px;
+    border-style:ridge;
+    border-width: 10px;
+    border-color: rgb(195, 185, 173);
+    margin-left: 5cm;
+    border-radius: 10%;    
+    background-color: rgb(144, 153, 161);
+}
+#output{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style:ridge;
+    border-radius: 10%;
+    border-width: 10px;
+    border-color: rgb(195, 185, 173);
+    margin-left: 900px;
+    margin-top: -545px;
+    height: 500px;
+    width: 500px;
+    background-color:  rgb(144, 153, 161);
+}
+#download{
+    margin-top: 10%;
+    margin-left: 10%;
+    height: 100px;
+    width: 1000px;
+    background-color: aliceblue;
+}
+#color{
+    margin-left: 30%;
+    border: 0ch;
+    border-radius: 50%;
+    height: 50px;
+    width:50px;
+
+}
+#size{
+    width: 5cm;
+    margin-left: 30%;
+}
+#create{
+    background-color: cadetblue;
+    border: 0ch;
+    border-radius: 10%;
+    height: 6mm;
+    width: 40mm;
+    margin-top: 7%;
+    margin-left: 30%;
+}
+#p1{
+    font-weight: bold;
+    padding-left: 10%;
+    padding-top: 3%;
+}
+#p2,#p3{
+    font-weight: bold;
+    margin-left: 10%;
+    padding-top: 1%;
+}
+#p4{
+    margin-top: -2%;
+    font-weight: bold;
+    margin-left: 10%;
+}
+#p5{
+    font-size: 20px;
+    margin-left: 35%;
+    font-weight: bold;
+}
+#value{
+    width: 5cm;
+    max-width: 10cm;
+    margin-left: 30%;
+}
+#dropdown{
+    margin-top: 0pc;
+    margin-left: 30%;
+}
+
+#downloadbtn{
+    height: 8mm;
+    width: 5cm;
+    margin-top: 2%;
+    margin-left: 30%;
+}
